@@ -1,5 +1,8 @@
 RestServerExample
 
+restServerExample.py: REST server API example, implemented with flask
+myclient.sh: simple resuests to test the server
+
 Available requests
 ------------------
 ```
